@@ -43,13 +43,13 @@ const Camp = () => {
         <CampSite
           backgroundImage="bg-bg-img-1"
           title="Semeru Camp"
-          subtitle="Tengger, East Java"
+          subtitle="Lumajang, East Java"
           peopleJoined="50+ Joined"
         />
         <CampSite
           backgroundImage="bg-bg-img-2"
           title="Merbabu Camp"
-          subtitle="Solo, Middle Java"
+          subtitle="Boyolali, Middle Java"
           peopleJoined="50+ Joined"
         />
       </div>
